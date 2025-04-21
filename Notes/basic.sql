@@ -31,3 +31,14 @@ SELECT
 FROM
     students_info
 ;
+
+-- Where
+/*  
+=         equality check
+<, >      less, greater
+<=, >=    less or equal, greater or equal
+!<, !>    not less than, not greater than
+<>, !=    not equal
+*/
+
+-- Logical expressions  NOT, AND, OR
